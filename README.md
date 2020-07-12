@@ -30,3 +30,6 @@ Here are some ideas to get you started:
 <a href="https://github.com/RiturajSaha?tab=repositories"><img src="https://github.com/RiturajSaha/RiturajSaha/blob/master/picx/github.png" width="50" height ="50"></a>
 
 
+<a href="https://www.hackerrank.com/Rituraj_Saha"><img src="https://github.com/RiturajSaha/RiturajSaha/blob/master/picx/HackerRank.png" width="55" height ="55"></a>
+
+<a href="https://auth.geeksforgeeks.org/user/riturajsaha/profile"><img src="https://github.com/RiturajSaha/RiturajSaha/blob/master/picx/gfg.png" width="55" height ="65"></a>
