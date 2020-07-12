@@ -1,4 +1,4 @@
-![RiturajSaha header](https://github.com/RiturajSaha/RiturajSaha/blob/master/cover.jpg)
+![RiturajSaha header](https://github.com/RiturajSaha/RiturajSaha/blob/master/picx/cover.jpg)
 <p align="center">
 
 <!--
@@ -18,4 +18,12 @@ Here are some ideas to get you started:
 
 
 
-<img src="https://github.com/favicon.ico" width="50" height ="100">
+<img src="https://github.com/RiturajSaha/RiturajSaha/blob/master/picx/github.png" width="50" height ="50">
+<img src="https://github.com/RiturajSaha/RiturajSaha/blob/master/picx/gmail.png" width="50" height ="50">
+<img src="https://github.com/RiturajSaha/RiturajSaha/blob/master/picx/HackerRank.png" width="50" height ="50">
+<img src="https://github.com/RiturajSaha/RiturajSaha/blob/master/picx/linkedin.png" width="50" height ="50">
+<img src="https://github.com/RiturajSaha/RiturajSaha/blob/master/picx/twitter.jpg" width="50" height ="50">
+<img src="https://github.com/RiturajSaha/RiturajSaha/blob/master/picx/gfg.png" width="50" height ="50">
+
+
+
