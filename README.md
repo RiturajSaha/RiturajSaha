@@ -1,5 +1,4 @@
-### Hi there 👋
-[![RiturajSaha header](https://github.com/RiturajSaha/RiturajSaha/blob/master/cover.jpg)]
+![RiturajSaha header](https://github.com/RiturajSaha/RiturajSaha/blob/master/cover.jpg=250x250)
 <p align="center">
 
 <!--
