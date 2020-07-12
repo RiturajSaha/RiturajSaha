@@ -1,4 +1,4 @@
-![RiturajSaha header](https://github.com/RiturajSaha/RiturajSaha/blob/master/cover.jpg=250x250)
+![RiturajSaha header](https://github.com/RiturajSaha/RiturajSaha/blob/master/cover.jpg)
 <p align="center">
 
 <!--
@@ -15,14 +15,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-
-<img src="https://camo.githubusercontent.com/..." data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="200" height="400" />
-
-
-
-
-![](https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png | width=100)
 
 
 
