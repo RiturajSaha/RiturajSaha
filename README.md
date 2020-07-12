@@ -26,4 +26,4 @@ Here are some ideas to get you started:
 
 
 
-<img src="https://github.com/favicon.ico" width="48">
+<img src="https://github.com/favicon.ico" width="50" height ="100">
