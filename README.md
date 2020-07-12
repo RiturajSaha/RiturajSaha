@@ -19,11 +19,14 @@ Here are some ideas to get you started:
 
 
 <img src="https://github.com/RiturajSaha/RiturajSaha/blob/master/picx/github.png" width="50" height ="50">
-<img src="https://github.com/RiturajSaha/RiturajSaha/blob/master/picx/gmail.png" width="50" height ="50">
+
 <img src="https://github.com/RiturajSaha/RiturajSaha/blob/master/picx/HackerRank.png" width="50" height ="50">
 <img src="https://github.com/RiturajSaha/RiturajSaha/blob/master/picx/linkedin.png" width="50" height ="50">
 <img src="https://github.com/RiturajSaha/RiturajSaha/blob/master/picx/twitter.png" width="70" height ="50">
 <img src="https://github.com/RiturajSaha/RiturajSaha/blob/master/picx/gfg.png" width="55" height ="55">
 
+
+
+<a href="https://github.com/RiturajSaha?tab=repositories"><img src="https://github.com/RiturajSaha/RiturajSaha/blob/master/picx/github.png" width="50" height ="50"></a>
 
 
