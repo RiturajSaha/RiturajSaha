@@ -18,6 +18,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: 
 -->
 
+# Profiles:
+
 <a href="https://github.com/RiturajSaha?tab=repositories"><img src="https://github.com/RiturajSaha/RiturajSaha/blob/master/Picx/github.png" height="50px" width="225px"></a>
 
 <a href="https://www.linkedin.com/in/rituraj-saha/"><img src="https://github.com/RiturajSaha/RiturajSaha/blob/master/Picx/linkedin.jpg" height="50px" width="225px"></a>
