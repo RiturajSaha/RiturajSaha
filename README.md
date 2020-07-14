@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 [![Twitter Badge](https://img.shields.io/badge/-@Abhishek_Apk-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Abhishek_Apk)](https://twitter.com/Abhishek_Apk) 
 [![Linkedin Badge](https://img.shields.io/badge/-abishekapk-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abhishekapk/)](https://www.linkedin.com/in/abhishekapk/) 
 [![Medium Badge](https://img.shields.io/badge/-@abhishekapk-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@abhishekapk)](https://medium.com/@abhishekapk)
-[![Gmail Badge](https://img.shields.io/badge/-abhishekgupta.ggu@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:abhishekgupta.ggu@gmail.com)](mailto:abhishekgupta.ggu@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-saharituraj@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:saharituraj@gmail.com)](mailto:saharituraj@gmail.com)
 
 ![Linkedin](https://img.shields.io/website?down_message=Rituraj%20Saha&label=Linkedin&logo=Linkedin&style=social&up_message=Rituraj%20Saha&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Frituraj-saha%2F)
 
