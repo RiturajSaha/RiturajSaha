@@ -18,12 +18,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: 
 -->
 
-<a href="https://twitter.com/Rrajsaha"><img src="https://github.com/RiturajSaha/RiturajSaha/blob/master/Picx/twitter.png"></a>
+<a href="https://twitter.com/Rrajsaha"><img src="https://github.com/RiturajSaha/RiturajSaha/blob/master/Picx/twitter.png" width="50px" height="100px"></a>
 
-<a href="https://www.linkedin.com/in/rituraj-saha/"><img src="https://github.com/RiturajSaha/RiturajSaha/blob/master/Picx/linkedin.png"></a>
+<a href="https://www.linkedin.com/in/rituraj-saha/"><img src="https://github.com/RiturajSaha/RiturajSaha/blob/master/Picx/linkedin.png" width="50px" height="100px"></a>
 
-<a href="https://www.hackerrank.com/Rituraj_Saha"><img src="https://github.com/RiturajSaha/RiturajSaha/blob/master/Picx/hackerrank.png"></a>
+<a href="https://www.hackerrank.com/Rituraj_Saha"><img src="https://github.com/RiturajSaha/RiturajSaha/blob/master/Picx/hackerrank.png" width="50px" height="100px"></a>
 
-<a href="https://auth.geeksforgeeks.org/user/riturajsaha/"><img src="https://github.com/RiturajSaha/RiturajSaha/blob/master/Picx/geeksforgeeks.png"></a>
+<a href="https://auth.geeksforgeeks.org/user/riturajsaha/"><img src="https://github.com/RiturajSaha/RiturajSaha/blob/master/Picx/geeksforgeeks.png" width="50px" height="100px"></a>
 
-<a href="https://github.com/RiturajSaha?tab=repositories"><img src="https://github.com/RiturajSaha/RiturajSaha/blob/master/Picx/repositories.png"></a>
+<a href="https://github.com/RiturajSaha?tab=repositories"><img src="https://github.com/RiturajSaha/RiturajSaha/blob/master/Picx/repositories.png" width="50px" height="100px"></a>
