@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 <a href="https://www.linkedin.com/in/rituraj-saha/"><img src="https://github.com/RiturajSaha/RiturajSaha/blob/master/Picx/linkedin.png" height="50px" width="150px"></a>
 
-<a href="https://www.hackerrank.com/Rituraj_Saha"><img src="https://github.com/RiturajSaha/RiturajSaha/blob/master/Picx/hackerrank.png" height="50px" width="150px"></a>
+<a href="https://www.hackerrank.com/Rituraj_Saha"><img src="https://github.com/RiturajSaha/RiturajSaha/blob/master/Picx/hackerrank.jpg" height="50px" width="150px"></a>
 
 <a href="https://auth.geeksforgeeks.org/user/riturajsaha/"><img src="https://github.com/RiturajSaha/RiturajSaha/blob/master/Picx/geeksforgeeks.png" height="50px" width="150px"></a>
 
