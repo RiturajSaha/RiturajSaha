@@ -28,4 +28,4 @@ Here are some ideas to get you started:
 
 <a href="https://twitter.com/Rrajsaha"><img src="https://github.com/RiturajSaha/RiturajSaha/blob/master/Picx/twitter.png" height="25px" width="100px"></a>
 
-<a href="https://auth.geeksforgeeks.org/user/riturajsaha/"><img src="https://github.com/RiturajSaha/RiturajSaha/blob/master/Picx/geeksforgeeks.png" height="25px" width="100px"></a>
+<a href="https://auth.geeksforgeeks.org/user/riturajsaha/"><img src="https://github.com/RiturajSaha/RiturajSaha/blob/master/Picx/geeksforgeeks.png" height="30px" width="100px"></a>
