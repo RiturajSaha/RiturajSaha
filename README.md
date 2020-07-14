@@ -25,4 +25,6 @@ Here are some ideas to get you started:
 [![Medium Badge](https://img.shields.io/badge/-@abhishekapk-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@abhishekapk)](https://medium.com/@abhishekapk)
 [![Gmail Badge](https://img.shields.io/badge/-abhishekgupta.ggu@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:abhishekgupta.ggu@gmail.com)](mailto:abhishekgupta.ggu@gmail.com)
 
-![Website](https://img.shields.io/website?color=blue&down_color=white&down_message=Rituraj%20Saha&label=Linkedin&logo=Linkedin&logoColor=blue&style=for-the-badge&up_color=white&up_message=Rituraj%20Saha&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Frituraj-saha%2F)
+![Linkedin](https://img.shields.io/website?down_message=Rituraj%20Saha&label=Linkedin&logo=Linkedin&style=social&up_message=Rituraj%20Saha&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Frituraj-saha%2F)
+
+![Twitter](https://img.shields.io/website?color=Black&down_message=Rrajsaha&label=Twitter&logo=Twitter&style=social&up_message=Rrajsaha&url=https%3A%2F%2Ftwitter.com%2FRrajsaha)
