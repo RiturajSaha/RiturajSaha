@@ -26,4 +26,4 @@ Here are some ideas to get you started:
 
 <a href="https://auth.geeksforgeeks.org/user/riturajsaha/"><img src="https://github.com/RiturajSaha/RiturajSaha/blob/master/Picx/geeksforgeeks.png" height="50px" width="150px"></a>
 
-<a href="https://github.com/RiturajSaha?tab=repositories"><img src="https://github.com/RiturajSaha/RiturajSaha/blob/master/Picx/github.png" height="50px" width="150px"></a>
+<a href="https://github.com/RiturajSaha?tab=repositories"><img src="https://github.com/RiturajSaha/RiturajSaha/blob/master/Picx/github.png" height="50px" width="100px"></a>
