@@ -18,16 +18,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: 
 -->
 
-![Github](https://img.shields.io/website?down_color=white&label=Github&logo=Github&style=for-the-badge&up_color=white&url=https%3A%2F%2Fgithub.com%2FRiturajSaha%3Ftab%3Drepositories)
+<a href="https://twitter.com/Rrajsaha"><img src="https://github.com/RiturajSaha/RiturajSaha/blob/master/Picx/twitter.png"></a>
 
+<a href="https://www.linkedin.com/in/rituraj-saha/"><img src="https://github.com/RiturajSaha/RiturajSaha/blob/master/Picx/linkedin.png"></a>
 
-![Twitter](https://img.shields.io/website?color=white&down_color=white&label=Twitter&logo=Twitter&style=for-the-badge&up_color=white&url=https%3A%2F%2Ftwitter.com%2FRrajsaha)
+<a href="https://www.hackerrank.com/Rituraj_Saha"><img src="https://github.com/RiturajSaha/RiturajSaha/blob/master/Picx/hackerrank.png"></a>
 
+<a href="https://auth.geeksforgeeks.org/user/riturajsaha/"><img src="https://github.com/RiturajSaha/RiturajSaha/blob/master/Picx/geeksforgeeks.png"></a>
 
-![Linkedin](https://img.shields.io/website?color=white&down_color=white&label=Linkedin&logo=Linkedin&logoColor=blue&style=for-the-badge&up_color=white&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Frituraj-saha%2F)
-
-
-![Hackerrank](https://img.shields.io/website?down_color=white&label=Hackerrrank&logo=Hackerrank&style=for-the-badge&up_color=white&url=https%3A%2F%2Fwww.hackerrank.com%2FRituraj_Saha)
-
-
-![Stackoverflow](https://img.shields.io/website?color=white&down_color=white&label=Stackoverflow&logo=stackoverflow&style=for-the-badge&up_color=white&url=https%3A%2F%2Fstackoverflow.com%2Fusers%2F11548830%2Frituraj-saha)
+<a href="https://github.com/RiturajSaha?tab=repositories"><img src="https://github.com/RiturajSaha/RiturajSaha/blob/master/Picx/repositories.png"></a>
