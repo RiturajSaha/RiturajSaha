@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: 
 -->
 
-# Profiles:
+### Profiles:
 
 <a href="https://github.com/RiturajSaha?tab=repositories"><img src="https://github.com/RiturajSaha/RiturajSaha/blob/master/Picx/github.png" height="50px" width="225px"></a>
 
