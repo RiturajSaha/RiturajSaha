@@ -27,6 +27,8 @@ Here are some ideas to get you started:
 
 ![Github](https://img.shields.io/website?down_color=white&label=Github&logo=Github&style=for-the-badge&up_color=white&url=https%3A%2F%2Fgithub.com%2FRiturajSaha%3Ftab%3Drepositories)
 
+![Stackoverflow](https://img.shields.io/website?color=white&down_color=white&label=Stackoverflow&logo=stackoverflow&style=for-the-badge&up_color=white&url=https%3A%2F%2Fstackoverflow.com%2Fusers%2F11548830%2Frituraj-saha)
+
 
 
 
