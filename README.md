@@ -1,4 +1,4 @@
-# <img src="https://github.com/RiturajSaha/RiturajSaha/blob/master/Picx/Hi.gif" width="30px"> **Hello World**&nbsp;<img src="https://github.com/RiturajSaha/RiturajSaha/blob/master/Picx/Earth.gif" width="25px">
+# <img src="https://github.com/RiturajSaha/RiturajSaha/blob/master/Picx/Hi.gif" width="35px"> **Hello World**&nbsp;<img src="https://github.com/RiturajSaha/RiturajSaha/blob/master/Picx/Earth.gif" width="30px">
 
 ![Cover](https://github.com/RiturajSaha/RiturajSaha/blob/master/Picx/cover.jpg)
 <p align="center">
