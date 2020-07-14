@@ -21,6 +21,6 @@ Here are some ideas to get you started:
 
 
 [![Twitter Badge](https://img.shields.io/badge/-@Abhishek_Apk-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Abhishek_Apk)](https://twitter.com/Abhishek_Apk) 
-[![Linkedin Badge](https://img.shields.io/badge/-abhishekapk-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abhishekapk/)](https://www.linkedin.com/in/abhishekapk/) 
+[![Linkedin Badge](https://img.shields.io/badge/-rituraj-saha-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abhishekapk/)](https://www.linkedin.com/in/abhishekapk/) 
 [![Medium Badge](https://img.shields.io/badge/-@abhishekapk-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@abhishekapk)](https://medium.com/@abhishekapk)
 [![Gmail Badge](https://img.shields.io/badge/-abhishekgupta.ggu@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:abhishekgupta.ggu@gmail.com)](mailto:abhishekgupta.ggu@gmail.com)
