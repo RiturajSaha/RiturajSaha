@@ -20,12 +20,4 @@ Here are some ideas to get you started:
 
 ### Profiles:
 
-<a href="https://github.com/RiturajSaha?tab=repositories"><img src="https://github.com/RiturajSaha/RiturajSaha/blob/master/Picx/github.png" height="25px" width="100px"></a>
-
-<a href="https://www.linkedin.com/in/rituraj-saha/"><img src="https://github.com/RiturajSaha/RiturajSaha/blob/master/Picx/linkedin.jpg" height="25px" width="100px"></a>
-
-<a href="https://www.hackerrank.com/Rituraj_Saha"><img src="https://github.com/RiturajSaha/RiturajSaha/blob/master/Picx/hackerrank.jpg" height="25px" width="100px"></a>
-
-<a href="https://twitter.com/Rrajsaha"><img src="https://github.com/RiturajSaha/RiturajSaha/blob/master/Picx/twitter.png" height="25px" width="100px"></a>
-
-<a href="https://auth.geeksforgeeks.org/user/riturajsaha/"><img src="https://github.com/RiturajSaha/RiturajSaha/blob/master/Picx/geeksforgeeks.png" height="30px" width="100px"></a>
+<a href="https://github.com/RiturajSaha?tab=repositories"><img src="https://github.com/RiturajSaha/RiturajSaha/blob/master/Picx/github.png" height="25px" width="100px"></a><a href="https://www.linkedin.com/in/rituraj-saha/"><img src="https://github.com/RiturajSaha/RiturajSaha/blob/master/Picx/linkedin.jpg" height="25px" width="100px"></a><a href="https://www.hackerrank.com/Rituraj_Saha"><img src="https://github.com/RiturajSaha/RiturajSaha/blob/master/Picx/hackerrank.jpg" height="25px" width="100px"></a><a href="https://twitter.com/Rrajsaha"><img src="https://github.com/RiturajSaha/RiturajSaha/blob/master/Picx/twitter.png" height="25px" width="100px"></a><a href="https://auth.geeksforgeeks.org/user/riturajsaha/"><img src="https://github.com/RiturajSaha/RiturajSaha/blob/master/Picx/geeksforgeeks.png" height="30px" width="100px"></a>
