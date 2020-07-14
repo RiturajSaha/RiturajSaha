@@ -1,4 +1,5 @@
-![RiturajSaha header](https://github.com/RiturajSaha/RiturajSaha/blob/master/Picx/cover.jpg)
+## R2J
+![Cover](https://github.com/RiturajSaha/RiturajSaha/blob/master/Picx/cover.jpg)
 <p align="center">
 
 <!--
@@ -15,7 +16,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: 
 -->
-**Hello World**
+### <img src="https://github.com/RiturajSaha/RiturajSaha/blob/master/Picx/Hi.gif" width="30px"> Hello World<img src="https://github.com/RiturajSaha/RiturajSaha/blob/master/Picx/Earth.gif" width="30px">
 
 ![Github](https://img.shields.io/website?down_color=white&label=Github&logo=Github&style=for-the-badge&up_color=white&url=https%3A%2F%2Fgithub.com%2FRiturajSaha%3Ftab%3Drepositories)
 
